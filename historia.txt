@@ -1,3 +1,13 @@
+final-a
 El astronauta llegó finalmente al planeta más lejano del universo tras un viaje de veinte años. Al abrir la escotilla con emoción, descubrió con asombro que el paisaje era exactamente igual al patio de la casa de su infancia. En el porche, su madre lo esperaba con la cena todavía caliente sobre la mesa.
 
 Al bajar de la nave, el astronauta reconoció cada rincón del patio, pero algo había cambiado: sobre la mesa había una segunda taza y, junto a ella, una nota que decía: «Sabía que encontrarías el camino». Entonces comprendió que aquel planeta no era una copia de su hogar, sino un lugar que había guardado sus recuerdos durante todo el viaje. Se sentó a cenar con su madre y, por primera vez en veinte años, sintió que había llegado a casa.
+
+ desarrollo
+Tres astronautas viajaban hacia la nada.
+De repente, su nave se apagó por completo.
+Una voz desconocida los saludó desde la oscuridad.
+
+El astronauta llegó finalmente al planeta más lejano del universo tras un viaje de veinte años. Al abrir la escotilla con emoción, descubrió con asombro que el paisaje era exactamente igual al patio de la casa de su infancia. En el porche, su madre lo esperaba con la cena todavía caliente sobre la mesa.
+ main
+  main
