@@ -1,1 +1,8 @@
+ desarrollo
+Tres astronautas viajaban hacia la nada.
+De repente, su nave se apagó por completo.
+Una voz desconocida los saludó desde la oscuridad.
+
 El astronauta llegó finalmente al planeta más lejano del universo tras un viaje de veinte años. Al abrir la escotilla con emoción, descubrió con asombro que el paisaje era exactamente igual al patio de la casa de su infancia. En el porche, su madre lo esperaba con la cena todavía caliente sobre la mesa.
+ main
+ 
